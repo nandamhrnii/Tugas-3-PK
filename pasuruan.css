@@ -1,0 +1,41 @@
+h1{
+    color: rgb(194, 60, 11);
+    border: 1px;
+}
+#hs{
+    text-align: left;
+}
+#to{
+    text-align: center;
+}
+#super{
+    background-color: blanchedalmond;
+}
+h2{
+    color: black;
+    font-family: serif;
+    background-color: none;
+}
+nav ul{
+    list-style-type: square;
+}
+/*table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+    width: 50px;
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: rgb(204, 121, 48);
+} */
+header{
+    background-color: rgb(228, 71, 13);
+}
+main{
+    background-color: coral;
+}
+footer{
+    background-color: rgb(56, 143, 94);
+    text-align: center;
+}
